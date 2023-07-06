@@ -17,7 +17,6 @@
 }
 
 body {
-  height: 100%;
   color: black;
   /* color: rgb(var(--foreground-rgb)); */
   /* background: linear-gradient(
@@ -26,4 +25,20 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb)); */
+}
+
+a {
+  color: #fc541b;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h3 {
+  font-size: 20px;
 }
